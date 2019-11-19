@@ -1,5 +1,5 @@
 //Sam Baker 11/8
-//Linked List
+//Linked List Implementation
 
 struct Node{
   int value;
